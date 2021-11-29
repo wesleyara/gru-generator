@@ -1,7 +1,7 @@
 {
   "name": "gru-generator",
   "version": "1.0.0",
-  "description": "gerador de boletos do site da GRU",
+  "description": "Gerador de boletos do site da Portal SIAFI",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
@@ -14,7 +14,7 @@
     "bot",
     "scraping",
     "puppeteer",
-    "gru",
+    "GRU",
     "boletor",
     "gerador."
   ],
