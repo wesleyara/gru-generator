@@ -1,0 +1,27 @@
+{
+  "name": "gru-generator",
+  "version": "1.0.0",
+  "description": "gerador de boletos do site da GRU",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleyara/GRU-generator.git"
+  },
+  "keywords": [
+    "bot",
+    "scraping",
+    "puppeteer",
+    "gru",
+    "boletor",
+    "gerador."
+  ],
+  "author": "Wesley Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyara/GRU-generator/issues"
+  },
+  "homepage": "https://github.com/wesleyara/GRU-generator#readme"
+}
