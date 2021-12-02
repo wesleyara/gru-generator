@@ -5,6 +5,8 @@ var readlineSync = require('readline-sync');
 const replaceAll = require('string.prototype.replaceall');
 replaceAll.shim();
 
+console.log("Seja bem vindo ao GRU generator, responda algumas perguntas para gerarmos seu boleto!")
+
 var unidadeGestora = parseInt(readlineSync.question(`Unidade Gestora: `)) 
 var vencimento = parseInt(readlineSync.question(`Para que data o vencimento? (ex: ddmmaaaa): `))
 var cpf = parseInt(readlineSync.question(`Digite seu CPF (somente numeros): `))
